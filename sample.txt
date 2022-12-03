@@ -1,0 +1,1225 @@
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {},
+      "expansion": "Scrooge"
+    }
+  ],
+  "word": "Scrooge",
+  "lang": "English",
+  "lang_code": "en",
+  "sounds": [
+    {
+      "ipa": "/sk\u0279u\u02d0d\u0292/"
+    },
+    {
+      "rhymes": "-u\u02d0d\u0292"
+    },
+    {
+      "homophone": "scrooge"
+    }
+  ],
+  "senses": [
+    {
+      "raw_glosses": [
+        "The fictional character Ebenezer Scrooge."
+      ],
+      "glosses": [
+        "The fictional character Ebenezer Scrooge."
+      ],
+      "wikipedia": [
+        "Scrooge"
+      ],
+      "id": "Scrooge-en-name-A6tLPGEl",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "Christmas",
+          "kind": "topical",
+          "parents": [
+            "Christianity",
+            "Holidays",
+            "Abrahamism",
+            "Religion",
+            "Calendar terms",
+            "List of sets",
+            "Culture",
+            "Timekeeping",
+            "All sets",
+            "Society",
+            "Time",
+            "Fundamental",
+            "All topics"
+          ],
+          "source": "w",
+          "orig": "en:Christmas",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "Ebenezer Scrooge"
+        }
+      ],
+      "derived": [
+        {
+          "word": "scrooge"
+        },
+        {
+          "word": "Scroogean"
+        },
+        {
+          "word": "Scroogelike"
+        },
+        {
+          "word": "Scroogesque"
+        },
+        {
+          "word": "Scroogian"
+        },
+        {
+          "word": "Uncle Scrooge"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "noun",
+  "head_templates": [
+    {
+      "name": "en-noun",
+      "args": {},
+      "expansion": "Ebenezer Scrooge (plural Ebenezer Scrooges)"
+    }
+  ],
+  "forms": [
+    {
+      "form": "Ebenezer Scrooges",
+      "tags": [
+        "plural"
+      ]
+    }
+  ],
+  "etymology_text": "After the character in Charles Dickens' A Christmas Carol.",
+  "etymology_templates": [],
+  "word": "Ebenezer Scrooge",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A scrooge; a miser."
+      ],
+      "glosses": [
+        "A scrooge; a miser."
+      ],
+      "wikipedia": [
+        "Ebenezer Scrooge"
+      ],
+      "id": "Ebenezer_Scrooge-en-noun-TFyxrqLi",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "British fiction",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:British fiction",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "Scrooge"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {},
+      "expansion": "Jacob Marley"
+    }
+  ],
+  "word": "Jacob Marley",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A fictional man who appears as a ghost in Charles Dickens' A Christmas Carol, warning his former business partner Ebenezer Scrooge against being greedy and selfish."
+      ],
+      "glosses": [
+        "A fictional man who appears as a ghost in Charles Dickens' A Christmas Carol, warning his former business partner Ebenezer Scrooge against being greedy and selfish."
+      ],
+      "id": "Jacob_Marley-en-name-Nl6qiqjc",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {
+        "head": "Ghost of Christmas Future"
+      },
+      "expansion": "Ghost of Christmas Future"
+    }
+  ],
+  "etymology_text": "The character first appeared in the book A Christmas Carol by Charles Dickens, written in 1843, and called Ghost of Christmas Yet to Come. The name Ghost of Christmas Future was coined by analogy with Ghost of Christmas Past and Ghost of Christmas Present.",
+  "etymology_templates": [],
+  "word": "Ghost of Christmas Future",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "Ghost of Christmas Yet to Come"
+      ],
+      "glosses": [
+        "Ghost of Christmas Yet to Come"
+      ],
+      "id": "Ghost_of_Christmas_Future-en-name-NeYYmtXL",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {
+        "head": "Ghost of Christmas Yet to Come"
+      },
+      "expansion": "Ghost of Christmas Yet to Come"
+    }
+  ],
+  "word": "Ghost of Christmas Yet to Come",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens; it visits Ebenezer Scrooge in order to show his impending fate of death and loneliness in a future Christmas that is ultimately avoided."
+      ],
+      "glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens; it visits Ebenezer Scrooge in order to show his impending fate of death and loneliness in a future Christmas that is ultimately avoided."
+      ],
+      "wikipedia": [
+        "Ghost of Christmas Yet to Come"
+      ],
+      "id": "Ghost_of_Christmas_Yet_to_Come-en-name-sLsi143y",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "Armenian",
+          "code": "hy",
+          "sense": "the fictional ghost",
+          "roman": "Galik\u02bf Surb Cnndyan urvakan",
+          "word": "\u0533\u0561\u056c\u056b\u0584 \u054d\u0578\u0582\u0580\u0562 \u053e\u0576\u0576\u0564\u0575\u0561\u0576 \u0578\u0582\u0580\u057e\u0561\u056f\u0561\u0576"
+        },
+        {
+          "lang": "Chinese",
+          "code": "cmn",
+          "tags": [
+            "Mandarin"
+          ],
+          "sense": "the fictional ghost",
+          "roman": "w\u00e8il\u00e1i zh\u012b l\u00edng",
+          "word": "\u672a\u6765\u4e4b\u7075"
+        },
+        {
+          "lang": "Esperanto",
+          "code": "eo",
+          "sense": "the fictional ghost",
+          "word": "Fantomo de Kristnasko Estonta"
+        },
+        {
+          "lang": "German",
+          "code": "de",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Geist der kommenden Weihnacht"
+        },
+        {
+          "lang": "Hungarian",
+          "code": "hu",
+          "sense": "the fictional ghost",
+          "word": "J\u00f6vend\u0151 Kar\u00e1csonyok Szelleme"
+        },
+        {
+          "lang": "Italian",
+          "code": "it",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "spirito del Natale Futuro"
+        },
+        {
+          "lang": "Korean",
+          "code": "ko",
+          "sense": "the fictional ghost",
+          "roman": "mirae'ui keuriseumaseu yuryeong",
+          "word": "\ubbf8\ub798\uc758 \ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc720\ub839"
+        },
+        {
+          "lang": "Polish",
+          "code": "pl",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "duch przysz\u0142ych \u015bwi\u0105t Bo\u017cego Narodzenia"
+        },
+        {
+          "lang": "Portuguese",
+          "code": "pt",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Fantasma do Natal Futuro"
+        },
+        {
+          "lang": "Russian",
+          "code": "ru",
+          "sense": "the fictional ghost",
+          "roman": "Dux b\u00fadu\u0161\u010dix svj\u00e1tok",
+          "tags": [
+            "masculine"
+          ],
+          "word": "\u0414\u0443\u0445 \u0431\u0443\u0301\u0434\u0443\u0449\u0438\u0445 \u0441\u0432\u044f\u0301\u0442\u043e\u043a"
+        },
+        {
+          "lang": "Spanish",
+          "code": "es",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Esp\u00edritu de las Navidades Futuras"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "Ghost of Christmas Future"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {
+        "head": "Ghost of Christmas Past"
+      },
+      "expansion": "Ghost of Christmas Past"
+    }
+  ],
+  "word": "Ghost of Christmas Past",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens, who visits Ebenezer Scrooge in order to show him his past, especially certain events of past Christmases that contributed to his later distaste for Christmas."
+      ],
+      "glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens, who visits Ebenezer Scrooge in order to show him his past, especially certain events of past Christmases that contributed to his later distaste for Christmas."
+      ],
+      "wikipedia": [
+        "Ghost of Christmas Past"
+      ],
+      "id": "Ghost_of_Christmas_Past-en-name-QsLGduP1",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "British fiction",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:British fiction",
+          "langcode": "en"
+        },
+        {
+          "name": "Christmas",
+          "kind": "topical",
+          "parents": [
+            "Christianity",
+            "Holidays",
+            "Abrahamism",
+            "Religion",
+            "Calendar terms",
+            "List of sets",
+            "Culture",
+            "Timekeeping",
+            "All sets",
+            "Society",
+            "Time",
+            "Fundamental",
+            "All topics"
+          ],
+          "source": "w",
+          "orig": "en:Christmas",
+          "langcode": "en"
+        },
+        {
+          "name": "Fiction",
+          "kind": "topical",
+          "parents": [
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fiction",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "Armenian",
+          "code": "hy",
+          "sense": "the fictional ghost",
+          "roman": "Anc\u02bfyal Surb Cnndyan urvakan",
+          "word": "\u0531\u0576\u0581\u0575\u0561\u056c \u054d\u0578\u0582\u0580\u0562 \u053e\u0576\u0576\u0564\u0575\u0561\u0576 \u0578\u0582\u0580\u057e\u0561\u056f\u0561\u0576"
+        },
+        {
+          "lang": "Dutch",
+          "code": "nl",
+          "sense": "the fictional ghost",
+          "word": "Geest van Voorbije Kerstmis"
+        },
+        {
+          "lang": "Esperanto",
+          "code": "eo",
+          "sense": "the fictional ghost",
+          "word": "Fantomo de Kristnasko Estinta"
+        },
+        {
+          "lang": "French",
+          "code": "fr",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "fant\u00f4me des No\u00ebls pass\u00e9s"
+        },
+        {
+          "lang": "German",
+          "code": "de",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Geist der vergangenen Weihnacht"
+        },
+        {
+          "lang": "Hungarian",
+          "code": "hu",
+          "sense": "the fictional ghost",
+          "word": "M\u00falt Kar\u00e1csonyok Szelleme"
+        },
+        {
+          "lang": "Korean",
+          "code": "ko",
+          "sense": "the fictional ghost",
+          "roman": "gwageoui keuriseumaseu yuryeong",
+          "word": "\uacfc\uac70\uc758 \ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc720\ub839"
+        },
+        {
+          "lang": "Mandarin",
+          "code": "cmn",
+          "sense": "the fictional ghost",
+          "word": "\u8fc7\u53bb\u4e4b\u7075"
+        },
+        {
+          "lang": "Polish",
+          "code": "pl",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Duch minionych \u015bwi\u0105t Bo\u017cego Narodzenia"
+        },
+        {
+          "lang": "Portuguese",
+          "code": "pt",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Fantasma do Natal Passado"
+        },
+        {
+          "lang": "Russian",
+          "code": "ru",
+          "sense": "the fictional ghost",
+          "roman": "Svj\u00e1to\u010dnyj dux pr\u00f3\u0161lyx let",
+          "tags": [
+            "masculine"
+          ],
+          "word": "\u0421\u0432\u044f\u0301\u0442\u043e\u0447\u043d\u044b\u0439 \u0434\u0443\u0445 \u043f\u0440\u043e\u0301\u0448\u043b\u044b\u0445 \u043b\u0435\u0442"
+        },
+        {
+          "lang": "Spanish",
+          "code": "es",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Fantasma de las Navidades Pasadas"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {
+        "head": "Ghost of Christmas Present"
+      },
+      "expansion": "Ghost of Christmas Present"
+    }
+  ],
+  "word": "Ghost of Christmas Present",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens, who visits Ebenezer Scrooge accompanied by a great feast in order to show him events of the current Christmas."
+      ],
+      "glosses": [
+        "A fictional ghost in A Christmas Carol by Charles Dickens, who visits Ebenezer Scrooge accompanied by a great feast in order to show him events of the current Christmas."
+      ],
+      "wikipedia": [
+        "Ghost of Christmas Present"
+      ],
+      "id": "Ghost_of_Christmas_Present-en-name-SOhhw9qC",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w",
+          "orig": "en:Fictional characters",
+          "langcode": "en"
+        }
+      ],
+      "translations": [
+        {
+          "lang": "Armenian",
+          "code": "hy",
+          "sense": "the fictional ghost",
+          "roman": "Nerka Surb Cnndyan urvakan",
+          "word": "\u0546\u0565\u0580\u056f\u0561 \u054d\u0578\u0582\u0580\u0562 \u053e\u0576\u0576\u0564\u0575\u0561\u0576 \u0578\u0582\u0580\u057e\u0561\u056f\u0561\u0576"
+        },
+        {
+          "lang": "Dutch",
+          "code": "nl",
+          "sense": "the fictional ghost",
+          "word": "Geest van Huidig Kerstmis"
+        },
+        {
+          "lang": "Esperanto",
+          "code": "eo",
+          "sense": "the fictional ghost",
+          "word": "Fantomo de Kristnasko Nuntempa"
+        },
+        {
+          "lang": "German",
+          "code": "de",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Geist der diesj\u00e4hrigen Weihnacht"
+        },
+        {
+          "lang": "Hungarian",
+          "code": "hu",
+          "sense": "the fictional ghost",
+          "word": "Idei Kar\u00e1csony Szelleme"
+        },
+        {
+          "lang": "Italian",
+          "code": "it",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "spirito del Natale Presente"
+        },
+        {
+          "lang": "Korean",
+          "code": "ko",
+          "sense": "the fictional ghost",
+          "roman": "hyeonjae'ui keuriseumaseu yuryeong",
+          "word": "\ud604\uc7ac\uc758 \ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc720\ub839"
+        },
+        {
+          "lang": "Mandarin",
+          "code": "cmn",
+          "sense": "the fictional ghost",
+          "word": "\u73b0\u5728\u4e4b\u7075"
+        },
+        {
+          "lang": "Polish",
+          "code": "pl",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "duch tera\u017aniejszych \u015bwi\u0105t Bo\u017cego Narodzenia"
+        },
+        {
+          "lang": "Portuguese",
+          "code": "pt",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Fantasma do Natal Presente"
+        },
+        {
+          "lang": "Russian",
+          "code": "ru",
+          "sense": "the fictional ghost",
+          "roman": "Dux n\u00fdne\u0161nix svj\u00e1tok",
+          "tags": [
+            "masculine"
+          ],
+          "word": "\u0414\u0443\u0445 \u043d\u044b\u0301\u043d\u0435\u0448\u043d\u0438\u0445 \u0441\u0432\u044f\u0301\u0442\u043e\u043a"
+        },
+        {
+          "lang": "Spanish",
+          "code": "es",
+          "sense": "the fictional ghost",
+          "tags": [
+            "masculine"
+          ],
+          "word": "Fantasma de las Navidades Presentes"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "name",
+  "head_templates": [
+    {
+      "name": "en-proper noun",
+      "args": {
+        "1": "s",
+        "head": "Tiny Tim"
+      },
+      "expansion": "Tiny Tim (plural Tiny Tims)"
+    }
+  ],
+  "forms": [
+    {
+      "form": "Tiny Tims",
+      "tags": [
+        "plural"
+      ]
+    }
+  ],
+  "wikipedia": [
+    "Tiny Tim (rocket)"
+  ],
+  "word": "Tiny Tim",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "A poor disabled boy whose death is ultimately averted by Ebenezer Scrooge in the classic tale A Christmas Carol by Charles Dickens."
+      ],
+      "examples": [
+        {
+          "text": "The crutches on the bottom look like the Tiny Tim model, while the top sports stainless steel walkers and canes and a few crutches that look like they are made from the same stuff as fancy tennis rackets and golf clubs.",
+          "ref": "2006, Brendan Halpin, Long Way Back, Random House (2008), page 67"
+        }
+      ],
+      "glosses": [
+        "A poor disabled boy whose death is ultimately averted by Ebenezer Scrooge in the classic tale A Christmas Carol by Charles Dickens."
+      ],
+      "id": "Tiny_Tim-en-name-5QXLF4u4",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w+disamb",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en",
+          "_dis": "77 23"
+        },
+        {
+          "name": "Fictional characters",
+          "kind": "topical",
+          "parents": [
+            "Fiction",
+            "Artistic works",
+            "Art",
+            "Culture",
+            "Society",
+            "All topics",
+            "Fundamental"
+          ],
+          "source": "w+disamb",
+          "orig": "en:Fictional characters",
+          "langcode": "en",
+          "_dis": "47 53"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "adj",
+  "head_templates": [
+    {
+      "name": "en-adj",
+      "args": {},
+      "expansion": "Scroogean (comparative more Scroogean, superlative most Scroogean)"
+    }
+  ],
+  "forms": [
+    {
+      "form": "more Scroogean",
+      "tags": [
+        "comparative"
+      ]
+    },
+    {
+      "form": "most Scroogean",
+      "tags": [
+        "superlative"
+      ]
+    }
+  ],
+  "word": "Scroogean",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "Alternative form of Scroogian"
+      ],
+      "glosses": [
+        "Alternative form of Scroogian"
+      ],
+      "tags": [
+        "alt-of",
+        "alternative"
+      ],
+      "alt_of": [
+        {
+          "word": "Scroogian"
+        }
+      ],
+      "id": "Scroogean-en-adj-DQxuON6U",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        }
+      ]
+    }
+  ]
+}
+{
+  "pos": "adj",
+  "head_templates": [
+    {
+      "name": "en-adj",
+      "args": {},
+      "expansion": "Scroogian (comparative more Scroogian, superlative most Scroogian)"
+    }
+  ],
+  "forms": [
+    {
+      "form": "more Scroogian",
+      "tags": [
+        "comparative"
+      ]
+    },
+    {
+      "form": "most Scroogian",
+      "tags": [
+        "superlative"
+      ]
+    }
+  ],
+  "etymology_text": "Scrooge + -ian",
+  "etymology_templates": [
+    {
+      "name": "suf",
+      "args": {
+        "1": "en",
+        "2": "Scrooge",
+        "3": "ian"
+      },
+      "expansion": "Scrooge + -ian"
+    }
+  ],
+  "word": "Scroogian",
+  "lang": "English",
+  "lang_code": "en",
+  "senses": [
+    {
+      "raw_glosses": [
+        "Of or relating to Ebenezer Scrooge."
+      ],
+      "glosses": [
+        "Of or relating to Ebenezer Scrooge."
+      ],
+      "id": "Scroogian-en-adj-jNqKpWJ8",
+      "categories": [
+        {
+          "name": "A Christmas Carol",
+          "kind": "topical",
+          "parents": [
+            "British fiction",
+            "Charles Dickens",
+            "Fiction",
+            "Authors",
+            "Individuals",
+            "Literature",
+            "Artistic works",
+            "People",
+            "List of sets",
+            "Culture",
+            "Entertainment",
+            "Writing",
+            "Art",
+            "Human",
+            "All sets",
+            "Society",
+            "Human behaviour",
+            "Language",
+            "All topics",
+            "Fundamental",
+            "Communication"
+          ],
+          "source": "w",
+          "orig": "en:A Christmas Carol",
+          "langcode": "en"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "Scroogean"
+        },
+        {
+          "word": "Scroogelike"
+        },
+        {
+          "word": "Scroogesque"
+        }
+      ]
+    }
+  ]
+}
