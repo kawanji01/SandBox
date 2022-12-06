@@ -6,7 +6,6 @@ class EnWiktionary < ApplicationRecord
   require "json"
   require "csv"
 
-
   #
   def self.export_csv
     entry = []
@@ -18,15 +17,6 @@ class EnWiktionary < ApplicationRecord
     ipa = []
     explanation = []
     pos = []
-    forms_json = []
-    sounds_json = []
-    senses_json = []
-    categories_json = []
-    topics_json = []
-    translations_json = []
-    etymology_templates_json = []
-    head_templates_json = []
-    inflection_templates_json = []
     synonyms = []
     antonyms = []
     hypernyms = []
@@ -35,9 +25,9 @@ class EnWiktionary < ApplicationRecord
     coordinate_terms = []
     related = []
     derived = []
-    wikidata = []
-    wiktionary = []
-    # すべてnilだが、用意しておかないとimport時に
+    # wiktionaryのJSON
+    wiktextract_json = []
+    # sentence_idはすべてnilだが、用意しておかないとimport時に
     # conversion failed: "[{"name":"en-conj-simple","args":{"stem":"abhorr"}}]" to int4 (sentence_id)
     # が発生する。
     sentence_id = []
@@ -47,55 +37,48 @@ class EnWiktionary < ApplicationRecord
     File.foreach('tmp/en_dictionary.json') do |line|
       json = JSON.parse(line)
       next if json.blank?
+      meaning_text = JsonUtility.meaning(json['senses'], 200)
+      next if meaning_text.blank?
 
       entry << json['word']
       entry_en << json['word']
       lang_number_of_entry << 21
-      meaning << EnWiktionary.meaning(json['senses'], 200)
+      meaning << meaning_text
       lang_number_of_meaning << 21
       ipa << EnWiktionary.ipa(json['sounds'])
       pos << json['pos']
       etymologies << json['etymology_text']
       explanation << ''
-      forms_json << json['forms']&.to_json
-      sounds_json << json['sounds']&.to_json
-      senses_json << json['senses']&.to_json
-      categories_json << json['categories']&.to_json
-      topics_json << json['topics']&.to_json
-      translations_json << json['translations']&.to_json
-      etymology_templates_json << json['etymology_templates']&.to_json
-      head_templates_json << json['head_templates']&.to_json
-      inflection_templates_json << json['inflection_templates']&.to_json
 
-      synonyms << EnWiktionary.related_words(json['synonyms'])
-      antonyms << EnWiktionary.related_words(json['antonyms'])
-      hypernyms << EnWiktionary.related_words(json['hypernyms'])
-      holonyms << EnWiktionary.related_words(json['holonyms'])
-      meronyms << EnWiktionary.related_words(json['meronyms'])
-      coordinate_terms << EnWiktionary.related_words(json['coordinate_terms'])
-      related << EnWiktionary.related_words(json['related'])
-      derived << EnWiktionary.related_words(json['derived'])
-      wikidata << json['wikidata']
-      wiktionary << json['wiktionary']
+      synonyms << JsonUtility.related_words(json['synonyms'])
+      antonyms << JsonUtility.related_words(json['antonyms'])
+      hypernyms << JsonUtility.related_words(json['hypernyms'])
+      holonyms << JsonUtility.related_words(json['holonyms'])
+      meronyms << JsonUtility.related_words(json['meronyms'])
+      coordinate_terms << JsonUtility.related_words(json['coordinate_terms'])
+      related << JsonUtility.related_words(json['related'])
+      derived << JsonUtility.related_words(json['derived'])
+      #
+      wiktextract_json << json
+      #
       sentence_id << nil
-      dictionary_id << 5
-      created_at << '2022-09-09 15:44:44.834394'
-      updated_at << '2022-09-09 15:44:44.834394'
+      # 要設定
+      dictionary_id << 8
+      created_at << '2022-12-06 15:44:44.834394'
+      updated_at << '2022-12-06 15:44:44.834394'
     end
 
     # 原文と翻訳文を１行にまとめて、配列を組み直す。
     array = [entry, entry_en, lang_number_of_entry, meaning, lang_number_of_meaning, ipa, pos, etymologies, explanation,
-             forms_json, sounds_json, senses_json, categories_json, topics_json, translations_json,
-             etymology_templates_json, head_templates_json, inflection_templates_json,
              synonyms, antonyms, hypernyms, holonyms, meronyms, coordinate_terms, related, derived,
-             wikidata, wiktionary, sentence_id, dictionary_id, created_at, updated_at].transpose
+             wiktextract_json,
+             sentence_id, dictionary_id, created_at, updated_at].transpose
 
     csv_data = CSV.generate do |csv|
       header = %w[entry entry_en lang_number_of_entry meaning lang_number_of_meaning ipa pos etymologies explanation
-                  forms_json sounds_json senses_json categories_json topics_json translations_json
-                  etymology_templates_json head_templates_json inflection_templates_json
                   synonyms antonyms hypernyms holonyms meronyms coordinate_terms related derived
-                  wikidata wiktionary sentence_id dictionary_id created_at updated_at]
+                  wiktextract_json
+                  sentence_id dictionary_id created_at updated_at]
       csv << header
       array.each do |a|
         csv << a

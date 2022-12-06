@@ -24,7 +24,7 @@ class JaEnWiktionary < ApplicationRecord
     derived = []
     # wiktionaryのJSON
     wiktextract_json = []
-    # すべてnilだが、用意しておかないとimport時に
+    # sentence_idはすべてnilだが、用意しておかないとimport時に
     # conversion failed: "[{"name":"en-conj-simple","args":{"stem":"abhorr"}}]" to int4 (sentence_id)
     # が発生する。
     sentence_id = []
@@ -61,6 +61,7 @@ class JaEnWiktionary < ApplicationRecord
       wiktextract_json << json
       #
       sentence_id << nil
+      # 要設定
       dictionary_id << 7
       created_at << '2022-12-05 15:44:44.834394'
       updated_at << '2022-12-05 15:44:44.834394'
