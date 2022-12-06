@@ -39,16 +39,17 @@ class JaEnWiktionary < ApplicationRecord
       next if meaning_text.blank?
       # kunのような単なるローマ字化は取り除く。
       next if pos_text == 'romanization'
+
       entry << json['word']
       entry_ja << json['word']
       reading << JaEnWiktionary.hiragana_reading(json)
       lang_number_of_entry << Languages::CODE_MAP['ja']
       meaning << meaning_text
       lang_number_of_meaning << Languages::CODE_MAP['en']
-      ipa << ''
-      pos << json['pos']
+      ipa << nil
+      pos << pos_text
       etymologies << json['etymology_text']
-      explanation << ''
+      explanation << nil
       synonyms << JsonUtility.related_words(json['synonyms'])
       antonyms << JsonUtility.related_words(json['antonyms'])
       hypernyms << JsonUtility.related_words(json['hypernyms'])
