@@ -40,8 +40,6 @@ class EnWiktionary < ApplicationRecord
       meaning_text = JsonUtility.meaning(json['senses'], 200)
       next if meaning_text.blank?
 
-      break if i > 100
-
       entry << json['word']
       entry_en << json['word']
       lang_number_of_entry << 21
