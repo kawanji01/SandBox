@@ -40,6 +40,8 @@ class EnWiktionary < ApplicationRecord
       meaning_text = JsonUtility.meaning(json['senses'], 200)
       next if meaning_text.blank?
 
+      break if i > 100
+
       entry << json['word']
       entry_en << json['word']
       lang_number_of_entry << 21
@@ -59,7 +61,7 @@ class EnWiktionary < ApplicationRecord
       related << JsonUtility.related_words(json['related'])
       derived << JsonUtility.related_words(json['derived'])
       #
-      wiktextract_json << json
+      wiktextract_json << json.to_json
       #
       sentence_id << nil
       # 要設定

@@ -58,7 +58,7 @@ class JaEnWiktionary < ApplicationRecord
       related << JsonUtility.related_words(json['related'])
       derived << JsonUtility.related_words(json['derived'])
       #
-      wiktextract_json << json
+      wiktextract_json << json.to_json
       #
       sentence_id << nil
       # 要設定
